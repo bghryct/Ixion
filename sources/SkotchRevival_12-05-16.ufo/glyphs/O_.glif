@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <advance width="750"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="573" y="744"/>
+      <point x="702" y="549"/>
+      <point x="702" y="372" type="curve" smooth="yes"/>
+      <point x="702" y="195"/>
+      <point x="573" y="-12"/>
+      <point x="372" y="-12" type="curve" smooth="yes"/>
+      <point x="171" y="-12"/>
+      <point x="48" y="195"/>
+      <point x="48" y="372" type="curve" smooth="yes"/>
+      <point x="48" y="549"/>
+      <point x="171" y="744"/>
+      <point x="372" y="744" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="228" y="705"/>
+      <point x="162" y="609"/>
+      <point x="162" y="372" type="curve" smooth="yes"/>
+      <point x="162" y="135"/>
+      <point x="228" y="27"/>
+      <point x="372" y="27" type="curve" smooth="yes"/>
+      <point x="516" y="27"/>
+      <point x="588" y="135"/>
+      <point x="588" y="372" type="curve" smooth="yes"/>
+      <point x="588" y="609"/>
+      <point x="516" y="705"/>
+      <point x="372" y="705" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-05 14:04:36 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>270</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>372</integer>
+          <key>y</key>
+          <integer>9</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>image</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>O</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>724</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

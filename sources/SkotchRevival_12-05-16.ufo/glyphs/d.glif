@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="549"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="465" y="756" type="line"/>
+      <point x="267" y="744" type="line"/>
+      <point x="267" y="711" type="line"/>
+      <point x="312" y="711" type="line" smooth="yes"/>
+      <point x="359" y="711"/>
+      <point x="381" y="700"/>
+      <point x="381" y="654" type="curve" smooth="yes"/>
+      <point x="381" y="351" type="line"/>
+      <point x="414" y="351" type="line"/>
+      <point x="414" y="447"/>
+      <point x="330" y="492"/>
+      <point x="248" y="492" type="curve" smooth="yes"/>
+      <point x="109" y="492"/>
+      <point x="36" y="361"/>
+      <point x="36" y="242" type="curve" smooth="yes"/>
+      <point x="36" y="119"/>
+      <point x="114" y="-12"/>
+      <point x="246" y="-12" type="curve" smooth="yes"/>
+      <point x="315" y="-12"/>
+      <point x="390" y="24"/>
+      <point x="423" y="120" type="curve"/>
+      <point x="390" y="120" type="line"/>
+      <point x="396" y="-12" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="537" y="33" type="line"/>
+      <point x="525" y="33" type="line" smooth="yes"/>
+      <point x="484" y="33"/>
+      <point x="465" y="44"/>
+      <point x="465" y="84" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="350" y="459"/>
+      <point x="384" y="385"/>
+      <point x="384" y="240" type="curve" smooth="yes"/>
+      <point x="384" y="96"/>
+      <point x="350" y="21"/>
+      <point x="255" y="21" type="curve" smooth="yes"/>
+      <point x="162" y="21"/>
+      <point x="126" y="92"/>
+      <point x="126" y="244" type="curve" smooth="yes"/>
+      <point x="126" y="378"/>
+      <point x="154" y="459"/>
+      <point x="254" y="459" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-05 20:30:33 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>showMeasurements</key>
+          <true/>
+          <key>x</key>
+          <integer>780</integer>
+          <key>y</key>
+          <integer>66</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>image</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>d</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>597</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
